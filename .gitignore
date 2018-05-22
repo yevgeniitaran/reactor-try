@@ -42,6 +42,7 @@ hs_err_pid*
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
 .idea/misc.xml
+*.iml
 
 # Sensitive or high-churn files:
 .idea/
@@ -49,8 +50,8 @@ hs_err_pid*
 # Gradle:
 .idea/gradle.xml
 .idea/libraries
-.gradlew
-.gradlew.bat
+gradlew
+gradlew.bat
 gradle-wrapper.properties
 
 # Mongo Explorer plugin:
